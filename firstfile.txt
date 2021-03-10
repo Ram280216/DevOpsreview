@@ -1,2 +1,3 @@
 First file in git.
-this the new line added.
+Secondline in linu
+added in 
